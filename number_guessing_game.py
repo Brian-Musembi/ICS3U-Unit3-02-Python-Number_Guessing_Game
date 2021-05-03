@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Brian Musembi
-# Created on: 03 May 2021
+# Created on: 02 May 2021
 # This program allows the user to guess the correct number
 
 
